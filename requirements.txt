@@ -1,0 +1,8 @@
+# Dependencies for shaft-design-agent.
+# Install (Python 3.11+): pip install -r requirements.txt
+# (uv users: uv venv && uv pip install -r requirements.txt)
+
+openai>=1.50.0
+python-dotenv>=1.0.0
+tiktoken>=0.7.0    # token counting: per-round tool-result totals in metrics.json
+pytest>=8.0.0      # tests/test_tools.py — regression test against the solutions manual
