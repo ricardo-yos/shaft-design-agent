@@ -1,0 +1,4 @@
+{"round": 1, "tool": "calculate_diameter_gerber", "args": {"Kf": 2.2, "Kfs": 1.8, "Ma": 70, "Mm": 55, "Se": 210, "Sut": 700, "Ta": 45, "Tm": 35, "n": 2}}
+{"round": 2, "tool": "calculate_diameter_asme_elliptic", "args": {"Kf": 2.2, "Kfs": 1.8, "Ma": 70, "Mm": 55, "Se": 210, "Sy": 560, "Ta": 45, "Tm": 35, "n": 2}}
+{"round": 3, "tool": "calculate_diameter_soderberg", "args": {"Kf": 2.2, "Kfs": 1.8, "Ma": 70, "Mm": 55, "Se": 210, "Sy": 560, "Ta": 45, "Tm": 35, "n": 2}}
+{"round": 4, "tool": "calculate_diameter_goodman", "args": {"Kf": 2.2, "Kfs": 1.8, "Ma": 70, "Mm": 55, "Se": 210, "Sut": 700, "Ta": 45, "Tm": 35, "n": 2}}
